@@ -8,6 +8,8 @@
 |[x]| Jan. 2016  | Twelve Years a Slave (1853) | Solomon Northup | :star::star: | |
 |[x]| Jan. 2016  | Hippocrate aux enfers | Michel Cymes | :star: | |
 |[x]| Fev. 2016  | Les Français jihadistes | David Thomson | :star::star: | |
+|[x]| Fev. 2016  | Blood Song Tome 3 *(La reine de feu)*  | Anthony Ryan | :star::star: | |
+|[x]| Fev. 2016  | 25 ans dans les services secrets  | Pierre Siramy | :star: | |
 |   |   | La Géopolitique de l'émotion | Dominique Moïsi | | |
 
 
