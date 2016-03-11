@@ -11,5 +11,4 @@
 |[x]| Fev. 2016  | Blood Song Tome 3 *(La reine de feu)*  | Anthony Ryan | :star::star: | |
 |[x]| Fev. 2016  | 25 ans dans les services secrets  | Pierre Siramy | :star: | |
 |   |   | La Géopolitique de l'émotion | Dominique Moïsi | | |
-
-
+|   |   | Pilleurs d’état: Document | Philippe Pascot | | |
