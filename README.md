@@ -10,5 +10,10 @@
 |[x]| Fev. 2016  | Les Français jihadistes | David Thomson | :star::star: | |
 |[x]| Fev. 2016  | Blood Song Tome 3 *(La reine de feu)*  | Anthony Ryan | :star::star: | |
 |[x]| Fev. 2016  | 25 ans dans les services secrets  | Pierre Siramy | :star: | |
+|[x]| Mar. 2016  | Haut-Royaume Tome 1 *Le Chevalier*  | Pierre Pevel | :star::star: | |
+|[x]| Mar. 2016  | Haut-Royaume Tome 2 *L'Héritier*  | Pierre Pevel | :star: | |
+|[x]| Avr. 2016  | Les Lames du Cardinal Tome 1  | Pierre Pevel | :star: | |
+|[x]| Avr. 2016  | Les Lames du Cardinal Tome 2  | Pierre Pevel | :star: | |
+|[x]| Jun. 2016  | Jeremiah Johnson, le Mangeur de foie | Raymond W. Thorp | :star::star: | |
 |   |   | La Géopolitique de l'émotion | Dominique Moïsi | | |
 |   |   | Pilleurs d’état: Document | Philippe Pascot | | |
