@@ -15,5 +15,7 @@
 |[x]| Avr. 2016  | Les Lames du Cardinal Tome 1  | Pierre Pevel | :star: | |
 |[x]| Avr. 2016  | Les Lames du Cardinal Tome 2  | Pierre Pevel | :star: | |
 |[x]| Jun. 2016  | Jeremiah Johnson, le Mangeur de foie | Raymond W. Thorp | :star::star: | |
+|[x]| Jun. 2016  | La route vers la liberté : Mémoires | Mietek Pemper | :star::star: | |
+|[x]| Jun. 2016  | Les Lames du Cardinal Tome 3  | Pierre Pevel | :star: | |
 |   |   | La Géopolitique de l'émotion | Dominique Moïsi | | |
 |   |   | Pilleurs d’état: Document | Philippe Pascot | | |
