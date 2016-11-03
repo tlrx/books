@@ -20,6 +20,8 @@
 |[x]| Aou. 2016  | Les Dossiers Noirs du Vatican  | Paul Williams| :star: |
 |[x]| Sep. 2016  | Carnets de Guerre  | Vassili Grossman | :star::star::star: |
 |[x]| Sep. 2016  | Enigma  | Robert Harris | :star::star: |
+|[x]| Oct. 2016  | Le Vaisseau magique *(The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
+|[x]| Oct. 2016  | Le Navire aux esclaves *(The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
 
 |   |   | La Géopolitique de l'émotion | Dominique Moïsi | |
 |   |   | Pilleurs d’état: Document | Philippe Pascot | |
