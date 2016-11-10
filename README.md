@@ -22,6 +22,4 @@
 |[x]| Sep. 2016  | Enigma  | Robert Harris | :star::star: |
 |[x]| Oct. 2016  | Le Vaisseau magique *(The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
 |[x]| Oct. 2016  | Le Navire aux esclaves *(The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
-
-|   |   | La Géopolitique de l'émotion | Dominique Moïsi | |
-|   |   | Pilleurs d’état: Document | Philippe Pascot | |
+|[x]| Nov. 2016  | Agent Secret | Jean-Marc Gadoullet  | :star::star: |
