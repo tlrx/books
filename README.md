@@ -20,6 +20,8 @@
 |[x]| Aou. 2016  | Les Dossiers Noirs du Vatican  | Paul Williams| :star: |
 |[x]| Sep. 2016  | Carnets de Guerre  | Vassili Grossman | :star::star::star: |
 |[x]| Sep. 2016  | Enigma  | Robert Harris | :star::star: |
-|[x]| Oct. 2016  | Le Vaisseau magique *(The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
-|[x]| Oct. 2016  | Le Navire aux esclaves *(The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
+|[x]| Oct. 2016  | Le Vaisseau Magique *(Ship of Magic, The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
+|[x]| Oct. 2016  | Le Navire aux Esclaves *(Ship of Magic, The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
 |[x]| Nov. 2016  | Agent Secret | Jean-Marc Gadoullet  | :star::star: |
+|[x]| Nov. 2016  | La Conquête de la Liberté *(Ship of Magic, The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
+|[x]| Nov. 2016  | Brumes et Tempête *(Mad Ship, The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
