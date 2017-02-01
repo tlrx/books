@@ -20,8 +20,12 @@
 |[x]| Aou. 2016  | Les Dossiers Noirs du Vatican  | Paul Williams| :star: |
 |[x]| Sep. 2016  | Carnets de Guerre  | Vassili Grossman | :star::star::star: |
 |[x]| Sep. 2016  | Enigma  | Robert Harris | :star::star: |
-|[x]| Oct. 2016  | Le Vaisseau Magique *(Ship of Magic, The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
-|[x]| Oct. 2016  | Le Navire aux Esclaves *(Ship of Magic, The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
+|[x]| Oct. 2016  | Le Vaisseau Magique *(Ship of Magic, The Liveship Traders)* | Robin Hobb | :star::star: |
+|[x]| Oct. 2016  | Le Navire aux Esclaves *(Ship of Magic, The Liveship Traders)* | Robin Hobb | :star::star: |
 |[x]| Nov. 2016  | Agent Secret | Jean-Marc Gadoullet  | :star::star: |
-|[x]| Nov. 2016  | La Conquête de la Liberté *(Ship of Magic, The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
-|[x]| Nov. 2016  | Brumes et Tempête *(Mad Ship, The Liveship Traders Trilogy)* | Robin Hobb | :star::star: |
+|[x]| Nov. 2016  | La Conquête de la Liberté *(Ship of Magic, The Liveship Traders)* | Robin Hobb | :star::star: |
+|[x]| Nov. 2016  | Prison d'Eau et de Bois *(Mad Ship part two, The Liveship Traders)* | Robin Hobb | :star::star: |
+|[x]| Dec. 2016  | La Conquête de la Liberté *(Mad Ship part three, The Liveship Traders)* | Robin Hobb |:star:|
+|[x]| Dec. 2016  | Le Seigneur des Trois-Regnes *(Ship of Destiny part one, The Liveship Traders)* | Robin Hobb |:star:|
+|[x]| Janvier. 2016  | Un Président ne devrait pas dire ça... | Gérard Davet & Fabrice Lhomme |:star:|
+|[x]| Janvier. 2016  | Flash ou Le Grand Voyage | Charles Duchaussois |:star::star::star:|
