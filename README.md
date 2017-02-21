@@ -27,5 +27,6 @@
 |[x]| Nov. 2016  | Prison d'Eau et de Bois *(Mad Ship part two, The Liveship Traders)* | Robin Hobb | :star::star: |
 |[x]| Dec. 2016  | La Conquête de la Liberté *(Mad Ship part three, The Liveship Traders)* | Robin Hobb |:star:|
 |[x]| Dec. 2016  | Le Seigneur des Trois-Regnes *(Ship of Destiny part one, The Liveship Traders)* | Robin Hobb |:star:|
-|[x]| Janvier. 2016  | Un Président ne devrait pas dire ça... | Gérard Davet & Fabrice Lhomme |:star:|
-|[x]| Janvier. 2016  | Flash ou Le Grand Voyage | Charles Duchaussois |:star::star::star:|
+|[x]| Jan. 2016  | Un Président ne devrait pas dire ça... | Gérard Davet & Fabrice Lhomme |:star:|
+|[x]| Jan. 2016  | Flash ou Le Grand Voyage | Charles Duchaussois |:star::star::star:|
+|[x]| Jan. 2016  | Sloop of War | Alexandre Kent |:star::star::star:|
