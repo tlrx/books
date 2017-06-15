@@ -27,6 +27,12 @@
 |[x]| Nov. 2016  | Prison d'Eau et de Bois *(Mad Ship part two, The Liveship Traders)* | Robin Hobb | :star::star: |
 |[x]| Dec. 2016  | La Conquête de la Liberté *(Mad Ship part three, The Liveship Traders)* | Robin Hobb |:star:|
 |[x]| Dec. 2016  | Le Seigneur des Trois-Regnes *(Ship of Destiny part one, The Liveship Traders)* | Robin Hobb |:star:|
-|[x]| Jan. 2016  | Un Président ne devrait pas dire ça... | Gérard Davet & Fabrice Lhomme |:star:|
-|[x]| Jan. 2016  | Flash ou Le Grand Voyage | Charles Duchaussois |:star::star::star:|
-|[x]| Jan. 2016  | Sloop of War | Alexandre Kent |:star::star::star:|
+|[x]| Jan. 2017  | Un Président ne devrait pas dire ça... | Gérard Davet & Fabrice Lhomme |:star:|
+|[x]| Jan. 2017  | Flash ou Le Grand Voyage | Charles Duchaussois |:star::star::star:|
+|[x]| Jan. 2017  | Armé pour la Guerre *(Sloop of War)* | Alexandre Kent |:star::star::star:|
+|[x]| Jan. 2017  | Cap sur la Gloire *(The Glory we Steer)* | Alexandre Kent |:star::star::star:|
+|[x]| Fev. 2017  | Capitaine de sa Majesté *(Commands of a King’s Ship)* | Alexandre Kent |:star::star::star:|
+|[x]| Fev. 2017  | Mutinerie à Bord *(Commands of a King’s Ship)* | Alexandre Kent |:star::star::star:|
+|[x]| Mar. 2017  | Toutes Voiles Dehors *(With all Despatch)* | Alexandre Kent |:star::star::star:|
+|[x]| Mar. 2017  | En Ligne de Bataille *(Form Line of Battle)* | Alexandre Kent |:star::star::star:|
+|[x]| Avr. 2017  | Ennemi en Vue *(Enemy in sight !)* | Alexandre Kent |:star::star::star:|
