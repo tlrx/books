@@ -36,3 +36,4 @@
 |[x]| Mar. 2017  | Toutes Voiles Dehors *(With all Despatch)* | Alexandre Kent |:star::star::star:|
 |[x]| Mar. 2017  | En Ligne de Bataille *(Form Line of Battle)* | Alexandre Kent |:star::star::star:|
 |[x]| Avr. 2017  | Ennemi en Vue *(Enemy in sight !)* | Alexandre Kent |:star::star::star:|
+|[x]| Dec. 2017  | Survivant d'Auchwitz | Thomas Gève |:star::star::star:|
